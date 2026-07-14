@@ -13,6 +13,7 @@
 ![Output](image.png)
 
 ## Pre-Submission Checklist
-- [✅] Have you saved your app.py file before testing the server?
-- [✅] Does your terminal successfully display a "Local URL" (e.g., http://localhost:8501) without tracebacks?
-- [✅] Have you tested the edge cases (e.g., clicking the button with only the name provided, but no message)?
+- [✅] Is your dropdown menu and slider neatly tucked away in the left sidebar?
+- [✅] Does your f-string successfully inject both the personality and the intensity slider value?
+- [✅] Does the AI's response look like a chat bubble instead of plain text?
+- [✅] Does the avatar emoji change when you select a different personality?

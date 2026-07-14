@@ -44,8 +44,8 @@ if st.button("SEND"):
 
         else:
             bot_avatar = "🤖"
-            
-        ai_instructions= f"You are acting as {personality}.Make sure to maintain the intensity of reply based on {intensity}. Respond to the message sent by the user staying completely in character: {user_message} "
+
+        ai_instructions= f"You are acting as {personality}.Make sure to maintain the intensity of reply based on {intensity}/10. Respond to the message sent by the user staying completely in character: {user_message} "
 
         with st.spinner("Connecting Multiverse...."):
             response = client.models.generate_content(
