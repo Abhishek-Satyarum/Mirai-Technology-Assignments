@@ -1,0 +1,141 @@
+Date,App_Name,Category,Minutes_Used
+2026-07-01,Instagram,Social Media,68
+2026-07-01,YouTube,Entertainment,82
+2026-07-01,WhatsApp,Communication,46
+2026-07-01,ChatGPT,Education,38
+2026-07-01,VS Code,Coding,125
+2026-07-01,Chrome,Productivity,54
+2026-07-01,LeetCode,Education,61
+2026-07-01,Spotify,Music,42
+2026-07-01,Netflix,Entertainment,35
+2026-07-01,LinkedIn,Productivity,18
+2026-07-02,Instagram,Social Media,74
+2026-07-02,YouTube,Entertainment,90
+2026-07-02,WhatsApp,Communication,44
+2026-07-02,ChatGPT,Education,42
+2026-07-02,VS Code,Coding,118
+2026-07-02,Chrome,Productivity,59
+2026-07-02,LeetCode,Education,65
+2026-07-02,Spotify,Music,39
+2026-07-02,Netflix,Entertainment,29
+2026-07-02,LinkedIn,Productivity,20
+2026-07-03,Instagram,Social Media,59
+2026-07-03,YouTube,Entertainment,71
+2026-07-03,WhatsApp,Communication,51
+2026-07-03,ChatGPT,Education,47
+2026-07-03,VS Code,Coding,141
+2026-07-03,Chrome,Productivity,57
+2026-07-03,LeetCode,Education,73
+2026-07-03,Spotify,Music,36
+2026-07-03,Netflix,Entertainment,22
+2026-07-03,LinkedIn,Productivity,25
+2026-07-04,Instagram,Social Media,83
+2026-07-04,YouTube,Entertainment,105
+2026-07-04,WhatsApp,Communication,63
+2026-07-04,ChatGPT,Education,31
+2026-07-04,VS Code,Coding,92
+2026-07-04,Chrome,Productivity,46
+2026-07-04,LeetCode,Education,41
+2026-07-04,Spotify,Music,58
+2026-07-04,Netflix,Entertainment,74
+2026-07-04,LinkedIn,Productivity,15
+2026-07-05,Instagram,Social Media,91
+2026-07-05,YouTube,Entertainment,113
+2026-07-05,WhatsApp,Communication,66
+2026-07-05,ChatGPT,Education,26
+2026-07-05,VS Code,Coding,81
+2026-07-05,Chrome,Productivity,42
+2026-07-05,LeetCode,Education,37
+2026-07-05,Spotify,Music,64
+2026-07-05,Netflix,Entertainment,81
+2026-07-05,LinkedIn,Productivity,14
+2026-07-06,Instagram,Social Media,62
+2026-07-06,YouTube,Entertainment,76
+2026-07-06,WhatsApp,Communication,48
+2026-07-06,ChatGPT,Education,51
+2026-07-06,VS Code,Coding,136
+2026-07-06,Chrome,Productivity,63
+2026-07-06,LeetCode,Education,69
+2026-07-06,Spotify,Music,35
+2026-07-06,Netflix,Entertainment,28
+2026-07-06,LinkedIn,Productivity,22
+2026-07-07,Instagram,Social Media,66
+2026-07-07,YouTube,Entertainment,81
+2026-07-07,WhatsApp,Communication,45
+2026-07-07,ChatGPT,Education,49
+2026-07-07,VS Code,Coding,143
+2026-07-07,Chrome,Productivity,60
+2026-07-07,LeetCode,Education,72
+2026-07-07,Spotify,Music,34
+2026-07-07,Netflix,Entertainment,26
+2026-07-07,LinkedIn,Productivity,21
+2026-07-08,Instagram,Social Media,77
+2026-07-08,YouTube,Entertainment,93
+2026-07-08,WhatsApp,Communication,52
+2026-07-08,ChatGPT,Education,43
+2026-07-08,VS Code,Coding,121
+2026-07-08,Chrome,Productivity,56
+2026-07-08,LeetCode,Education,67
+2026-07-08,Spotify,Music,39
+2026-07-08,Netflix,Entertainment,31
+2026-07-08,LinkedIn,Productivity,19
+2026-07-09,Instagram,Social Media,58
+2026-07-09,YouTube,Entertainment,69
+2026-07-09,WhatsApp,Communication,47
+2026-07-09,ChatGPT,Education,54
+2026-07-09,VS Code,Coding,149
+2026-07-09,Chrome,Productivity,65
+2026-07-09,LeetCode,Education,78
+2026-07-09,Spotify,Music,33
+2026-07-09,Netflix,Entertainment,21
+2026-07-09,LinkedIn,Productivity,26
+2026-07-10,Instagram,Social Media,84
+2026-07-10,YouTube,Entertainment,101
+2026-07-10,WhatsApp,Communication,55
+2026-07-10,ChatGPT,Education,39
+2026-07-10,VS Code,Coding,116
+2026-07-10,Chrome,Productivity,58
+2026-07-10,LeetCode,Education,62
+2026-07-10,Spotify,Music,43
+2026-07-10,Netflix,Entertainment,38
+2026-07-10,LinkedIn,Productivity,17
+2026-07-11,Instagram,Social Media,96
+2026-07-11,YouTube,Entertainment,119
+2026-07-11,WhatsApp,Communication,68
+2026-07-11,ChatGPT,Education,28
+2026-07-11,VS Code,Coding,88
+2026-07-11,Chrome,Productivity,41
+2026-07-11,LeetCode,Education,35
+2026-07-11,Spotify,Music,67
+2026-07-11,Netflix,Entertainment,86
+2026-07-11,LinkedIn,Productivity,13
+2026-07-12,Instagram,Social Media,88
+2026-07-12,YouTube,Entertainment,108
+2026-07-12,WhatsApp,Communication,61
+2026-07-12,ChatGPT,Education,33
+2026-07-12,VS Code,Coding,97
+2026-07-12,Chrome,Productivity,45
+2026-07-12,LeetCode,Education,39
+2026-07-12,Spotify,Music,61
+2026-07-12,Netflix,Entertainment,77
+2026-07-12,LinkedIn,Productivity,16
+2026-07-13,Instagram,Social Media,63
+2026-07-13,YouTube,Entertainment,79
+2026-07-13,WhatsApp,Communication,49
+2026-07-13,ChatGPT,Education,52
+2026-07-13,VS Code,Coding,139
+2026-07-13,Chrome,Productivity,64
+2026-07-13,LeetCode,Education,71
+2026-07-13,Spotify,Music,37
+2026-07-13,Netflix,Entertainment,27
+2026-07-13,LinkedIn,Productivity,23
+2026-07-14,Instagram,Social Media,71
+2026-07-14,YouTube,Entertainment,87
+2026-07-14,WhatsApp,Communication,50
+2026-07-14,ChatGPT,Education,46
+2026-07-14,VS Code,Coding,127
+2026-07-14,Chrome,Productivity,59
+2026-07-14,LeetCode,Education,68
+2026-07-14,Spotify,Music,40
+2026-07-14,Netflix,Entertainment,33
+2026-07-14,LinkedIn,Productivity,20
